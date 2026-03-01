@@ -13,21 +13,6 @@ Amit Kumar (M25AI2126) - MTech AI Executive
 - IAM: Custom role "VM Viewer Plus"
 
 ## Files in this Repository
-1) create-vm.sh- to Creates VM instance and template 
-2) create-autoscaling.sh - to Sets up MIG with auto-scaling 
-3) create-firewall.sh- Configures firewall rules 
-4) create-iam-role.sh -Creates custom IAM role 
-5) test-stress.sh- Commands to test auto-scaling 
-6) cleanup.sh- Deletes all resources 
-
-
-
-# Run scripts in order
-
-./01-create-vm.sh
-
-./02-create-autoscaling.sh
-
-./03-create-firewall.sh
-
-./04-create-iam-role.sh
+1- setup.sh
+2- cleanup.sh
+3- test.sh
