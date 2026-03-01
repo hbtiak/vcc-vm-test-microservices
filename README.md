@@ -1,7 +1,7 @@
 # VCC Assignment2: GCP Auto-scaling - with Security
 
 By
-Amit Kumar (M25AI2126) - MTech AI Executive
+Amit Kumar (M25AI2126) - MTech AI Executive - IIT Jodhpur
 
 ## Overview
 - VM Type: e2-micro (2 vCPU, 1 GB memory)
