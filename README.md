@@ -23,7 +23,11 @@ Amit Kumar (M25AI2126) - MTech AI Executive
 
 
 # Run scripts in order
+
 ./01-create-vm.sh
+
 ./02-create-autoscaling.sh
+
 ./03-create-firewall.sh
+
 ./04-create-iam-role.sh
